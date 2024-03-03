@@ -1,0 +1,14 @@
+/*a {
+    color: blue;
+    font-size: 100px;
+}
+a:link{
+    text-decoration: dotted;
+}
+a:visited{
+    color: peru;;
+}*/
+a:hover{
+    color: cadetblue;
+    text-decoration: line-through;
+}
